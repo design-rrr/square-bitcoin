@@ -16,3 +16,5 @@ Front take contest directly from [squareup.com/bitcoin](https://squareup.com/bit
 - [Manage your bitcoin wallet](https://squareup.com/help/us/en/article/8574-manage-your-bitcoin-wallet)
 
 The back contents came from the [Flash ebook](https://paywithflash.com/wp-content/uploads/2025/07/Flash-Ebook-1-1_compressed.pdf), as I found it was the more synthesized way to explain the concepts to merchants and business owners.
+
+Join the conversation: [https://stacker.news/items/1281385](https://stacker.news/items/1281385/r/deSign_r)
